@@ -1,1 +1,5 @@
-
+ gcc -g p3original.c
+ ./a.out
+Enter the number:-
+10
+Therefore the 10 is composite
